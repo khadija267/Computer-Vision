@@ -4,8 +4,8 @@
 
 plant images at different resolution captured with a variety of cameras,there are images showing plants with approximatelty 1,2,3,4 and 6 leafs.
 <p float="center">
-  <img src="https://github.com/khadija267/Image-Processing/blob/main/images/7.png?raw=true" width="200" /> 
-    <img src="https://github.com/khadija267/Image-Processing/blob/main/images/8.png?raw=true" width="200" /> 
+  <img src="https://github.com/khadija267/Computer-Vision/blob/main/images/7.png?raw=true" width="200" /> 
+    <img src="https://github.com/khadija267/Computer-Vision/blob/main/images/8.png?raw=true" width="200" /> 
 </p>
 We used both classification and regression VGG16 model, the classification model performed better. Hence we made 3 models with different image processing techniques.
 - The classification model with batch normalization overfitted.

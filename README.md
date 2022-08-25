@@ -27,7 +27,7 @@ The true label is the image is not flipped, while the model sees it as it's flip
 <p float="center">
   <img src="https://github.com/khadija267/Computer-Vision/blob/main/images/15.png?raw=true" width="250" /> 
   <img src="https://github.com/khadija267/Computer-Vision/blob/main/images/16.png?raw=true" width="250" /> 
-  <img src="https://github.com/khadija267/Computer-Vision/blob/main/images/14.png?raw=true" width="250" /> 
+  <img src="https://github.com/khadija267/Computer-Vision/blob/main/images/17.png?raw=true" width="250" /> 
 </p>
 
 Model Performance:

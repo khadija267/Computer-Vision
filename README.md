@@ -2,14 +2,7 @@
  Computer Vision Projects
 
 
-## 1. Day and Night Classifier:
-
-<p float="center">
-  <img src="https://github.com/khadija267/Computer-Vision/blob/main/images/1.jpg?raw=true" width="200" /> 
-    <img src="https://github.com/khadija267/Computer-Vision/blob/main/images/2.jpg?raw=true" width="200" /> 
-</p>
-
-## 2.Regularization and Data Augmentation:
+## 1.Regularization and Data Augmentation:
 
 plant images at different resolution captured with a variety of cameras,there are images showing plants with approximatelty 1,2,3,4 and 6 leafs.
 <p float="center">
@@ -27,7 +20,7 @@ Here is the learning curves from left to rigth in order:
   <img src="https://github.com/khadija267/Computer-Vision/blob/main/images/11.png?raw=true" width="250" /> 
 </p>
 
-## 3. Upside Down Detector:
+## 2. Upside Down Detector:
 
 Train a model to detect if images are upside down using the mnist dataset.<br>
 The true label is the image is flipped (represents the number 9), while the model sees it as it's non-flipped 6.
